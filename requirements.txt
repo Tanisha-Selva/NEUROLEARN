@@ -1,0 +1,27 @@
+# NeuroLearnAI v2 — Dependencies
+# Python 3.8+  |  Install: pip install -r requirements.txt
+
+# ── Core UI ────────────────────────────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ── PDF Processing ─────────────────────────────────────────────────────────────
+PyPDF2>=3.0.1
+
+# ── Data & Visualisation ───────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+
+# ── Image / OCR  (optional — needed for image exam sheet upload) ───────────────
+Pillow>=10.0.0
+# pytesseract>=0.3.10   ← uncomment + install Tesseract binary for OCR support
+#   Windows: https://github.com/UB-Mannheim/tesseract/wiki
+
+# ── HTTP / Env / API ─────────────────────────────────────────────────────────
+requests>=2.31.0
+python-dotenv>=1.0.0
+google-generativeai>=0.4.0
+pymongo>=4.6.0
+
+# ── Testing ────────────────────────────────────────────────────────────────────
+pytest>=8.0.0

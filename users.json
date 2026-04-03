@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "username": "INDHU",
+      "password_hash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+      "role": "School",
+      "name": "INDHUMA",
+      "class_dept": "Class 11-12",
+      "subject_focus": "Math"
+    },
+    {
+      "username": "1234",
+      "password_hash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+      "role": "College",
+      "name": "SRI",
+      "class_dept": "Information Tech (IT)",
+      "subject_focus": "DBMS"
+    },
+    {
+      "username": "SRI",
+      "password_hash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+      "role": "School",
+      "name": "SRI",
+      "class_dept": "Class 6-8",
+      "subject_focus": "Math"
+    },
+    {
+      "username": "SUBHA",
+      "password_hash": "f857d0bda1809eef96336f01a07af9e638761542873743a534fab63af883b6d7",
+      "role": "School",
+      "name": "SUBHA",
+      "class_dept": "Class 6-10",
+      "subject_focus": "Math"
+    },
+    {
+      "username": "123",
+      "password_hash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+      "role": "College",
+      "name": "TANISHA",
+      "class_dept": "IT",
+      "subject_focus": "AI"
+    },
+    {
+      "username": "BABU",
+      "password_hash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+      "role": "School",
+      "name": "BABU",
+      "class_dept": "Class 6-10",
+      "subject_focus": "Math"
+    },
+    {
+      "username": "123ASD",
+      "password_hash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+      "role": "School",
+      "name": "BABU",
+      "class_dept": "Class 11-12",
+      "subject_focus": "Math"
+    },
+    {
+      "username": "SUBHASHINI",
+      "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "College",
+      "name": "SUBHASHINI",
+      "class_dept": "CSE",
+      "subject_focus": "DBMS"
+    },
+    {
+      "username": "TAN",
+      "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "School",
+      "name": "TAN",
+      "class_dept": "Class 11-12",
+      "subject_focus": "Math"
+    },
+    {
+      "username": "TANI",
+      "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "role": "School",
+      "name": "TAN",
+      "class_dept": "Class 11-12",
+      "subject_focus": "Math"
+    },
+    {
+      "username": "SUBHASHI",
+      "password_hash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+      "role": "College",
+      "name": "SUBHASHI",
+      "class_dept": "CSE",
+      "subject_focus": "AI"
+    },
+    {
+      "username": "NIJAHAS",
+      "password_hash": "8bb0cf6eb9b17d0f7d22b456f121257dc1254e1f01665370476383ea776df414",
+      "role": "College",
+      "name": "NIJAHAS",
+      "class_dept": "CSE",
+      "subject_focus": "AI"
+    }
+  ]
+}
